@@ -178,7 +178,7 @@ li {
 }
 
 .hero__block-img {
-    background-image: url("/img/hero-img.png");
+    background-image: url("img/hero-img.png");
     background-repeat: no-repeat;
     background-position: 50% 30%;
     background-size: contain;
@@ -197,7 +197,7 @@ li {
 }
 
 .advantages__block-img {
-    background-image: url("/img/advantages__block-img.png");
+    background-image: url("img/advantages__block-img.png");
     background-repeat: no-repeat;
     background-position: 54% 44%;
     background-size: 84% 73.75%;
@@ -333,7 +333,7 @@ li {
 
 .courses__card-img-1 {
     position: relative;
-    background-image: url("/img/courses__card-img-1.png");
+    background-image: url("img/courses__card-img-1.png");
 }
 
 .courses__card-img-time {
@@ -354,15 +354,15 @@ li {
 }
 
 .courses__card-img-2 {
-    background-image: url("/img/courses__card-img-2.png");
+    background-image: url("img/courses__card-img-2.png");
 }
 
 .courses__card-img-3 {
-    background-image: url("/img/courses__card-img-3.png");
+    background-image: url("img/courses__card-img-3.png");
 }
 
 .courses__card-img-4 {
-    background-image: url("/img/courses__card-img-4.png");
+    background-image: url("img/courses__card-img-4.png");
 }
 
 .courses__card-block {
