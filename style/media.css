@@ -45,7 +45,7 @@
     }
 
     .hero__block-img {
-        background-image: url("img/hero-img-media-768.png");
+        background-image: url("../img/hero-img-media-768.png");
         background-position-y: 44%;
         background-size: 92%;
     }
@@ -55,7 +55,7 @@
     }
 
     .advantages__block-img {
-        background-image: url("img/advantages__block-img-media-768.png");
+        background-image: url("../img/advantages__block-img-media-768.png");
         background-size: 88%;
     }
 
@@ -96,19 +96,19 @@
     }
 
     .courses__card-img-1 {
-        background-image: url("img/courses__card-img-1-media-768.png")
+        background-image: url("../img/courses__card-img-1-media-768.png")
     }
 
     .courses__card-img-2 {
-        background-image: url("img/courses__card-img-2-media-768.png")
+        background-image: url("../img/courses__card-img-2-media-768.png")
     }
 
     .courses__card-img-3 {
-        background-image: url("img/courses__card-img-3-media-768.png")
+        background-image: url("../img/courses__card-img-3-media-768.png")
     }
 
     .courses__card-img-4 {
-        background-image: url("img/courses__card-img-4-media-768.png")
+        background-image: url("../img/courses__card-img-4-media-768.png")
     }
 
     .courses {
@@ -175,19 +175,19 @@
     }
 
     .courses__card-img-1 {
-        background-image: url("img/courses__card-img-1-media-576.png")
+        background-image: url("../img/courses__card-img-1-media-576.png")
     }
 
     .courses__card-img-2 {
-        background-image: url("img/courses__card-img-2-media-576.png")
+        background-image: url("../img/courses__card-img-2-media-576.png")
     }
 
     .courses__card-img-3 {
-        background-image: url("img/courses__card-img-3-media-576.png")
+        background-image: url("../img/courses__card-img-3-media-576.png")
     }
 
     .courses__card-img-4 {
-        background-image: url("img/courses__card-img-4-media-576.png")
+        background-image: url("../img/courses__card-img-4-media-576.png")
     }
 
     .courses__card-name {
@@ -353,19 +353,19 @@
         max-width: 100%;
     }
     .courses__card-img-1 {
-        background-image: url("img/courses__card-img-1-media-320.png")
+        background-image: url("../img/courses__card-img-1-media-320.png")
     }
 
     .courses__card-img-2 {
-        background-image: url("img/courses__card-img-2-media-320.png")
+        background-image: url("../img/courses__card-img-2-media-320.png")
     }
 
     .courses__card-img-3 {
-        background-image: url("img/courses__card-img-3-media-320.png")
+        background-image: url("../img/courses__card-img-3-media-320.png")
     }
 
     .courses__card-img-4 {
-        background-image: url("img/courses__card-img-4-media-320.png")
+        background-image: url("../img/courses__card-img-4-media-320.png")
     }
     .courses__cards:nth-child(1) .courses__card-descr {
         margin-bottom: 81px; 
